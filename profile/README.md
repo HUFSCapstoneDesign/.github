@@ -8,4 +8,4 @@
 
 
 ## 👨‍💻 ERD
-![](https://velog.velcdn.com/images/choidongkuen/post/3f60a846-e4d8-451f-9e4b-6c9fc42bf104/image.png)
+<img width="854" alt="스크린샷 2023-05-08 오전 11 27 05" src="https://user-images.githubusercontent.com/96874318/236720389-1f6f9175-58ca-485c-bfbb-ec174364c26b.png">
