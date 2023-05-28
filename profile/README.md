@@ -10,5 +10,6 @@
 
 
 ## 👨‍💻 ERD
-<img width="983" alt="스크린샷 2023-05-23 오후 11 15 29" src="https://github.com/HUFSCapstoneDesign/.github/assets/96874318/0e463290-a57a-4c3c-8bfa-3690eec66b4a">
+![](https://velog.velcdn.com/images/choidongkuen/post/a6b64940-7638-4200-a048-9d79b6c82a8a/image.png)
+
 
