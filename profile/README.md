@@ -1,4 +1,4 @@
-## 프로젝트 이름 : 이커머스 플렛폼 상에서의 상품 상세 페이지 제작 도구 개발
+## 📚 프로젝트 이름 : 이커머스 플렛폼 상에서의 상품 상세 페이지 제작 도구 개발
 
 ## 💪 프로젝트 목표 : 클라이언트에게 편의성,심미성 그리고 자율성을 제공하는 상세 페이지 제작 도구 서비스를 제공하자
 
@@ -14,6 +14,10 @@
 
 ## 👨‍💻 Notion 
 [https://various-middle-7b5.notion.site/a7e5def90f2c4029ba5d2064078924e2](https://various-middle-7b5.notion.site/a7e5def90f2c4029ba5d2064078924e2)
+
+## 👩🏼‍💻 Figma
+https://www.figma.com/file/jTkmYkKPfYAGEiaTkzKkJE/Untitled?node-id=0%3A1&t=K7Q9WhABj1cZY1zS-1
+
 
 
 
